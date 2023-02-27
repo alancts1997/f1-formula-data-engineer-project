@@ -8,4 +8,4 @@ The dataset is extracted from Ergast API, containing F1 Formula racing data from
 # Architecture
 The project is based on below Data Platform Architecture.
 
-<img width="1440" alt="Architecture" src="https://user-images.githubusercontent.com/124675313/221698807-3c92c8ad-d673-4a0d-bfcc-77dbe9ef4441.png">
+<img width="1388" alt="Architecture" src="https://user-images.githubusercontent.com/124675313/221702379-12ce95c5-b95e-487e-ad5c-78d9f8cfce4b.png">
